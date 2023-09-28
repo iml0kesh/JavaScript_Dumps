@@ -1,0 +1,9 @@
+What is JS?
+JS is high level , object-oriented, Multi-paradigm programming languags.
+
+Role of JS in wed-dev?
+html - content of the page.
+cdd - presentation of the pages.
+js - to make dynamic and add interactive to webpages.
+
+

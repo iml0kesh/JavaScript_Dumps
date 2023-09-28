@@ -1,0 +1,21 @@
+.light {
+    width:30rem;
+    height: 30rem;
+    background: rgb(119, 119, 116);
+    border: 3px solid black;
+    border-radius: 50%;
+}
+
+.btn-on {
+    padding: 10px 30px;
+    background-color: white;
+    font-size: 25px;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.btn-off {
+    padding: 10px 30px;
+    background-color: white;
+    font-size: 25px;
+}

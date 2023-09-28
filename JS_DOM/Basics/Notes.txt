@@ -1,0 +1,9 @@
+DOM : Document Object Modal
+
+4 Pillars of DOM:
+
+1. Selection Of An Element
+2. Changing HTML
+3. Changing CSS
+4. Event Listener
+
