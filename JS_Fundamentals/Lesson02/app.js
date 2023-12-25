@@ -162,3 +162,6 @@ money = String(money)
 // Convert String to Decimal
 money = "50.234";
 money = parentFloat(money);
+
+console.clear();
+
