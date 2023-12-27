@@ -92,3 +92,24 @@ while (i <= 100) {
     i++;
 }
 
+// Do While Loop
+
+do {
+    console.log("Hello");
+} while(i <= 5)
+
+console.clear();
+
+
+// Logical Operators
+// 1 . AND (&&)
+// 2. OR (||)
+// 3. NOT (!)
+
+const n1 = 2;
+const n2 = 3;
+const n3 = 4;
+
+console.log(n1 > n3 && n2 < n3);
+console.log(n1 > n3 || n2 < n3);
+console.log(!(n1 > n3));
